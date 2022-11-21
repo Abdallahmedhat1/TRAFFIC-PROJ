@@ -1,0 +1,14 @@
+HAL/LED/LED_PROGRAM.d HAL/LED/LED_PROGRAM.o: ../HAL/LED/LED_PROGRAM.c \
+ ../HAL/LED/STD_TYPES.h ../HAL/LED/BIT_MATH.h \
+ ../HAL/LED/../../MCAL/DIO/DIO_interface.h ../HAL/LED/LED_interface.h \
+ ../HAL/LED/../../MCAL/TIMER0/TIMER0_INTERFACE.h
+
+../HAL/LED/STD_TYPES.h:
+
+../HAL/LED/BIT_MATH.h:
+
+../HAL/LED/../../MCAL/DIO/DIO_interface.h:
+
+../HAL/LED/LED_interface.h:
+
+../HAL/LED/../../MCAL/TIMER0/TIMER0_INTERFACE.h:
